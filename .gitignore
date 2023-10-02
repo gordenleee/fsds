@@ -7,6 +7,16 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+*.zip
+*.gz
+*.csv
+*.gzip
+*.feather
+*.geofeather
+*.parquet
+*.geoparquet
+'Added data files to .gitignore'
+data/
 .Python
 build/
 develop-eggs/
